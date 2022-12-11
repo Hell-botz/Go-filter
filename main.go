@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"os"
 
-	"https://github.com/Hell-botz/Go-filter/plugins"
-	"https://github.com/Hell-botz/Go-filter/utils"
-	"https://github.com/Hell-botz/Go-filter/utils/customfilters"
+	"https://github.com/Jisin0/Go-Filter-Bot/plugins"
+	"https://github.com/Jisin0/Go-Filter-Bot/utils"
+	"https://github.com/Jisin0/Go-Filter-Bot/utils/customfilters"
 	"github.com/PaulSonOfLars/gotgbot/v2"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext"
 	"github.com/PaulSonOfLars/gotgbot/v2/ext/handlers"
