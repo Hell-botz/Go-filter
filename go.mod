@@ -1,4 +1,4 @@
-module github.com/Hell-botz/Go-filter
+module github.com/Jisin0/Go-Filter-Bot
 
 // +heroku goVersion go1.18
 go 1.18
